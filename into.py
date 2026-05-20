@@ -16,3 +16,5 @@ a.display()
 b = employee()
 b.putdata()
 b.display()
+
+c = employee()

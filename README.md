@@ -1,2 +1,2 @@
 # PDSA
-Data Structures and algorithm in python
+Data Structures and algorithm in python. Its an IIT Madras course.
