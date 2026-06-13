@@ -1,1 +1,1 @@
-# PDSA: programing and data structures in python by IIT Madras
+# PDSA: Programming and Data Structures in Python by IIT Madras
